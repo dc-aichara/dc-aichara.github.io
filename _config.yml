@@ -31,7 +31,7 @@ theme: minima
 permalink: /:title # removes date from URL
 plugins:
   - jekyll-feed
-
+google_analytics: 'UA-142842753-1'
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
