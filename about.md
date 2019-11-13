@@ -121,6 +121,16 @@ permalink: /about/
 
 <ul>
 <li>
+<a href='https://crypto-price-indicators.herokuapp.com//'>Cryptos Technical Indicators Dashboard</a> <br/>
+
+   <ul>
+   <li> A cryptocurrency dashboard which shows graphs of 6 technical indicators for selected coin and date range. </li>
+   </ul>
+</li>
+</ul>
+
+<ul>
+<li>
 <a href='https://www.github.com/dc-aichara'>Other projects</a> <br/>
 
    <ul>
@@ -135,13 +145,13 @@ permalink: /about/
 ###  <center><heading style ='background:yellow;color:blue'>Academics</heading> </center>
       
 - **M.Tech** <br/>
-    (2016 - 2018) | *CPI: 8.37/10* <br/>
+    (2016 - 2018) <br/>
     [Centre of Studies in Resources Engineering](https://csre.iitb.ac.in) <br/>
     [Indian Institute of Technology Bombay](https://iitb.ac.in), India <br/>
 
       
 - **B.Tech** <br/>
-    (2012 - 2016) | *CPI: 9.10/10* <br/>
+    (2012 - 2016) <br/>
     Awarded 4 gold medals for securing highest grades in undergraduates.<br/> 
     [UAS Raichur](https://www.uasraichur.edu.in/index.php/en/), India <br/>
   
