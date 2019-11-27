@@ -121,7 +121,7 @@ permalink: /about/
 
 <ul>
 <li>
-<a href='https://crypto-price-indicators.herokuapp.com//'>Cryptos Technical Indicators Dashboard</a> <br/>
+<a href='https://crypto-indicators-dashboard.herokuapp.com/'>Cryptos Technical Indicators Dashboard</a> <br/>
 
    <ul>
    <li> A cryptocurrency dashboard which shows charts of 6 technical indicators for selected coin and date range. </li>
